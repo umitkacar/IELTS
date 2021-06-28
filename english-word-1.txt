@@ -6,3 +6,32 @@ fruitful
 irreducible error
 audit performance
 sanity-check for code and algorithm
+You haven't bothered to label all of them yet.
+highway
+labeling instruction
+consensus labels
+respectable benchmark
+tempting
+prioritization
+crowdsourced
+purchase data
+outsource
+Don't increase data by more than 10x at a time.
+For the sake of this example
+incancation
+replicate
+Meta-data, data provenance and lineage
+immature
+Are there any tainted datasets we need to clean up after?
+increase conversion
+diligence on value
+determine milestone
+flesh out
+bundle
+stock's price
+extrapolate
+revenue
+user engagement
+compromise
+throughput
+timeline
